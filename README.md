@@ -3,7 +3,7 @@
 * clone repository
 * npm install on client and server
 * from server
-..* `nodemon index.js`
+⋅⋅* `nodemon index.js`
 
 ## Client
 
